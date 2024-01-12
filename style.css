@@ -1,0 +1,94 @@
+body {
+    background-color: skyblue;
+    margin: 0px;
+}
+
+header {
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left-header {
+    color: purple;
+    padding-left: 150px;
+}
+
+nav {
+    padding-right: 150px;
+}
+nav a {
+    text-decoration: none;
+    padding-right: 30px;
+}
+nav a:hover {
+    color: white;
+    background-color: black;
+    padding: 6px 20px 6px 20px;
+    border-radius: 8px;
+}
+.hero h1{
+    font-size: 70px;
+}
+.hero {
+    color: whitesmoke;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#About {
+    color: blue;
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+#About h1{
+    text-align: center;
+    color: black;
+    padding-bottom: 25px;
+}
+#kegiatan {
+    color: blue;
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.box {
+    width: 250px;
+    background-color: black;
+}
+.box img {
+padding-left:25px ;
+padding-top: 10px;
+}
+.box h4 {
+    text-align: center;
+    padding-bottom: 10px ;
+    color: white;
+}
+#kontak {
+    color: blue;
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.Medsos img {
+   padding-left:25px ;
+padding-right:25px;
+padding-top: 10px;
+padding-bottom:10px;
+width: 500px;
+}
+.kontak img {
+    padding-left:25px;
+    padding-top:10px;
+}
